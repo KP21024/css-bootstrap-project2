@@ -8,6 +8,10 @@ h1,h2{
     background-color: lightgray;
 }
 
+.navbar-logo {
+    height: 105px;
+    width: 105px;
+}
 
 .red-circle {
     background: #E6563B;
@@ -69,4 +73,9 @@ body {
     font-family: 'Abel', sans-serif;
     font-weight: bold;
     text-align: center;
+}
+.selected-work-images {
+    /*box-shadow: none;*/
+    border: 5px solid #b4b4b4;
+
 }
