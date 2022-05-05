@@ -65,6 +65,8 @@ h1,h2{
 }
 
 body {
-    background-color: lightgrey
-;
+    background-color: lightgrey;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
