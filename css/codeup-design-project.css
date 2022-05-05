@@ -1,5 +1,35 @@
 h1,h2{
     font-family: 'Anton', sans-serif;
     font-weight: bold;
+    text-align: center;
 
 }
+
+.red-circle {
+    background: #E6563B;
+    width: 60px;
+    height: 60px;
+    border-radius: 2em;
+    margin: .5em;
+}.orange-circle {
+     background: #EB9D3A;
+     width: 60px;
+     height: 60px;
+     border-radius: 2em;
+     margin: .5em;
+ }.green-circle {
+      background: #7CB06C;
+      width: 60px;
+      height: 60px;
+      border-radius: 2em;
+      margin: .5em;
+  }
+
+.blue-circle {
+    background: #00ABA9;
+    width: 60px;
+    height: 60px;
+    border-radius: 2em;
+    margin: .5em;
+}
+
