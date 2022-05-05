@@ -78,4 +78,53 @@ body {
     /*box-shadow: none;*/
     border: 5px solid #b4b4b4;
 
+
+}
+
+.red-circle1 {
+    background: #E6563B;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.orange-circle1 {
+     background: #EB9D3A;
+     width: 18px;
+     height: 18px;
+     border-radius: 50%;
+     font-weight: bold;
+     display: flex;
+     color: black;
+     align-items: center;
+     justify-content: center;
+ }
+
+.green-circle1 {
+    background: #7CB06C;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue-circle1 {
+    background: #00ABA9;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
 }
