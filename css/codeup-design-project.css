@@ -8,6 +8,7 @@ h1,h2{
     background-color: lightgray;
 }
 
+
 .red-circle {
     background: #E6563B;
     width: 105px;
@@ -63,3 +64,7 @@ h1,h2{
     justify-content: center;
 }
 
+body {
+    background-color: lightgrey
+;
+}
