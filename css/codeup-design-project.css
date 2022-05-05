@@ -4,32 +4,62 @@ h1,h2{
     text-align: center;
 
 }
+.container {
+    background-color: lightgray;
+}
 
 .red-circle {
     background: #E6563B;
-    width: 60px;
-    height: 60px;
-    border-radius: 2em;
-    margin: .5em;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    border: 8px solid white;
+    margin: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+
 }.orange-circle {
      background: #EB9D3A;
-     width: 60px;
-     height: 60px;
-     border-radius: 2em;
-     margin: .5em;
- }.green-circle {
+     width: 105px;
+     height: 105px;
+     border-radius: 50%;
+     font-weight: bold;
+     display: flex;
+     border: 8px solid white;
+     margin: 20px;
+     color: white;
+     align-items: center;
+     justify-content: center;
+ }
+
+.green-circle {
       background: #7CB06C;
-      width: 60px;
-      height: 60px;
-      border-radius: 2em;
-      margin: .5em;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    border: 8px solid white;
+    margin: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
   }
 
 .blue-circle {
     background: #00ABA9;
-    width: 60px;
-    height: 60px;
-    border-radius: 2em;
-    margin: .5em;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    border: 8px solid white;
+    margin: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
 }
 
