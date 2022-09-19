@@ -1,11 +1,11 @@
 h1,h2{
-    font-family: 'Anton', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-weight: bold;
     text-align: center;
 
 }
 h4 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-weight: bold;
     text-align: left;
     margin-left: 20px;
@@ -15,31 +15,35 @@ h4 {
 }
 
 .navbar-logo {
-    height: 105px;
-    width: 105px;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+.navbar-brand {
+    font-family: 'Indie Flower', cursive;
 }
 
 .red-circle {
-    background: #E6563B;
+    background: #9B1003;
     width: 105px;
     height: 105px;
     border-radius: 50%;
     font-weight: bold;
     display: flex;
-    border: 8px solid white;
+    border: 8px solid black;
     margin: 20px;
     color: white;
     align-items: center;
     justify-content: center;
 
 }.orange-circle {
-     background: #EB9D3A;
+     background: #ED7117;
      width: 105px;
      height: 105px;
      border-radius: 50%;
      font-weight: bold;
      display: flex;
-     border: 8px solid white;
+     border: 8px solid black;
      margin: 20px;
      color: white;
      align-items: center;
@@ -47,13 +51,13 @@ h4 {
  }
 
 .green-circle {
-      background: #7CB06C;
+      background: #005C29;
     width: 105px;
     height: 105px;
     border-radius: 50%;
     font-weight: bold;
     display: flex;
-    border: 8px solid white;
+    border: 8px solid black;
     margin: 20px;
     color: white;
     align-items: center;
@@ -61,13 +65,13 @@ h4 {
   }
 
 .blue-circle {
-    background: #00ABA9;
+    background: #1034A6;
     width: 105px;
     height: 105px;
     border-radius: 50%;
     font-weight: bold;
     display: flex;
-    border: 8px solid white;
+    border: 8px solid black;
     margin: 20px;
     color: white;
     align-items: center;
@@ -76,7 +80,7 @@ h4 {
 
 body {
     background-color: lightgrey;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Indie Flower', cursive;;
     font-weight: bold;
     text-align: center;
 }
@@ -88,7 +92,7 @@ body {
 }
 
 .red-circle1 {
-    background: #E6563B;
+    background: #9B1003;
     width: 18px;
     height: 18px;
     border-radius: 50%;
@@ -100,7 +104,7 @@ body {
 }
 
 .orange-circle1 {
-     background: #EB9D3A;
+     background: #ED7117;
      width: 18px;
      height: 18px;
      border-radius: 50%;
@@ -112,7 +116,7 @@ body {
  }
 
 .green-circle1 {
-    background: #7CB06C;
+    background: #005C29;
     width: 18px;
     height: 18px;
     border-radius: 50%;
@@ -124,7 +128,7 @@ body {
 }
 
 .blue-circle1 {
-    background: #00ABA9;
+    background: #1034A6;
     width: 18px;
     height: 18px;
     border-radius: 50%;
@@ -134,3 +138,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.nav-link {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+
+}
+
+
